@@ -22,3 +22,4 @@ venv/*
 
 # secret file for local testing
 tests/secrets.json
+_version.py
