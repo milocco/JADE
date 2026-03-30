@@ -1,0 +1,1 @@
+2026-03-29 09:17:26,453 - root - INFO - Starting the configuration GUI
